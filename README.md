@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating a common integer pointer bug. The `bug.c` file shows the buggy code, where modifying the value pointed to by an integer pointer directly modifies the original integer variable. The `bugSolution.c` file demonstrates the correct way to handle pointer arithmetic and modification for beginners.
